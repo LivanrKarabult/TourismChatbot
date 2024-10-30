@@ -1,0 +1,591 @@
+{
+  "Antalya": {
+    "places": [
+      "Kaleiçi: Antalya'nın tarihi merkezidir, Osmanlı dönemine ait yapıları ve dar sokakları ile ünlüdür.",
+      "Düden Şelalesi: Şehir merkezine yakın bu doğal güzellik, etkileyici bir şelale ve çevresindeki park alanıyla ziyaretçileri çeker.",
+      "Aspendos Tiyatrosu: Antik Roma dönemine ait etkileyici bir tiyatro yapısıdır ve mükemmel akustiği ile bilinir.",
+      "Perge Antik Kenti: Roma dönemine ait kalıntılar ve etkileyici bir antik şehir harabesi sunar.",
+      "Köprülü Kanyon: Rafting ve doğa yürüyüşleri için popüler bir milli parktır."
+    ],
+    "beaches": [
+      "Konyaaltı Plajı: Antalya'nın en popüler plajlarından biri olan Konyaaltı, geniş ve uzun bir kıyı şeridine sahiptir. Plaj, mavi bayraklıdır ve birçok restoran, kafe ve bar ile çevrilidir.",
+      "Lara Plajı: Lara, Antalya'nın en lüks plajlarından biridir. Burada birçok beş yıldızlı otel ve resort bulunmaktadır.",
+      "Kaputaş Plajı: Antalya'nın Kaş ilçesinde bulunan Kaputaş Plajı, turkuaz renkli suyu ve altın rengi kumuyla ünlüdür.",
+      "Patara Plajı: Türkiye'nin en uzun plajı olan Patara, aynı zamanda bir doğa koruma alanıdır. Burası, caretta caretta deniz kaplumbağalarının üreme alanlarından biridir.",
+      "Çıralı Plajı: Çıralı, hem güzel bir plaja hem de antik Olympos kentine ev sahipliği yapar. Ayrıca, Yanartaş olarak bilinen doğal bir fenomeni de görebilirsiniz.",
+      "Olympos Plajı: Olympos, hem tarihi kalıntıları hem de güzel plajı ile ünlüdür. Ayrıca, bölgedeki ağaç evlerde konaklama imkanı da bulunmaktadır."
+    ],
+    "hotels": [
+      {
+        "name": "Rixos Downtown Antalya", 
+        "star_rating": "5 yıldızlı" , 
+        "point": 8.5,
+        "features": [
+          "Deniz manzaralı odalar",
+          "Özel plaj",
+          "Spor salonu",
+          "Açık ve kapalı yüzme havuzları",
+          "Spa ve wellness merkezi",
+          "Günlük temizlik hizmeti",
+          "Oda servisi"
+        ],
+        "room_options": [
+          "Standart Oda : 1 person",
+          "Deluxe Oda : 4 person",
+          "Süit Oda : 2-4 person",
+          "Aile Odası : 3-4 person"
+        ]
+      },
+      {
+        "name": "Akra Hotel", 
+        "star_rating": "5 yıldızlı", 
+        "point": 8.7,
+        "features": [
+          "Deniz manzaralı odalar",
+          "Özel plaj",
+          "Spor salonu",
+          "Açık ve kapalı yüzme havuzları",
+          "Spa ve wellness merkezi",
+          "Günlük temizlik hizmeti",
+          "Oda servisi"
+        ],
+        "room_options": [
+          "Standart Oda : 1 person",
+          "Deluxe Oda : 4 person",
+          "Süit Oda : 2-4 person",
+          "Aile Odası : 3-4 person"
+        ]
+      },
+      {
+        "name": "Titanic Beach Lara", 
+        "star_rating": "5 yıldızlı", 
+        "point": 8.9,
+        "features": [
+          "Deniz manzaralı odalar",
+          "Özel plaj",
+          "Spor salonu",
+          "Açık ve kapalı yüzme havuzları",
+          "Spa ve wellness merkezi",
+          "Günlük temizlik hizmeti",
+          "Oda servisi"
+        ],
+        "room_options": [
+          "Standart Oda : 1 person",
+          "Süit Oda : 2-4 person",
+          "Aile Odası : 3-4 person"
+        ]
+      },
+      {
+        "name": "Delphin Imperial Lara", 
+        "star_rating":"4 yıldızlı", 
+        "point": 9.1,
+        "features": [
+          "Deniz manzaralı odalar",
+          "Özel plaj",
+          "Spor salonu",
+          "Açık ve kapalı yüzme havuzları",
+          "Spa ve wellness merkezi",
+          "Günlük temizlik hizmeti",
+          "Oda servisi"
+        ],
+        "room_options": [
+          "Standart Oda : 1 person",
+          "Deluxe Oda : 4 person",
+          "Aile Odası : 3-4 person"
+        ]
+      },
+      {
+        "name": "Kervansaray Lara Hotel", 
+        "star_rating": "3 yıldızlı", 
+        "point": 7.9,
+        "features": [
+          "Deniz manzaralı odalar",
+          "Açık ve kapalı yüzme havuzları",
+          "Spa merkezi",
+          "Günlük temizlik hizmeti",
+          "Oda servisi"
+        ],
+        "room_options": [
+          "Standart Oda : 1 person",
+          "Deluxe Oda : 4 person",
+          "Aile Odası : 3-4 person"
+        ]
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "7 Mehmet",
+        "cuisine": "Türk Mutfağı",
+        "address": "Atatürk Kültür Parkı, No: 201, Konyaaltı, Antalya",
+        "phone": "+90 242 238 52 00",
+        "website": "http://www.7mehmet.com",
+        "rating": 4.7,
+        "description": "Deniz manzarası eşliğinde, geleneksel Türk yemeklerinin modern yorumlarını sunan bir restoran."
+      },
+      {
+        "name": "Seraser Fine Dining",
+        "cuisine": "Uluslararası Mutfağı",
+        "address": "Kaleiçi, Tuzcular Mah. Karanlık Sok. No: 18, Antalya",
+        "phone": "+90 242 247 60 15",
+        "website": "http://www.seraserrestaurant.com",
+        "rating": 4.6,
+        "description": "Tarihi bir konakta yer alan, lüks ve şık bir atmosferde sunulan uluslararası lezzetler."
+      },
+      {
+        "name": "Vanilla Lounge",
+        "cuisine": "Akdeniz Mutfağı",
+        "address": "Kaleiçi, Hıdırlık Sokak No: 5, Antalya",
+        "phone": "+90 242 247 60 13",
+        "website": "http://www.vanillalounge.com.tr",
+        "rating": 4.5,
+        "description": "Modern ve şık bir ortamda, Akdeniz mutfağının eşsiz lezzetlerini sunan bir restoran."
+      },
+      {
+        "name": "Arma Restaurant",
+        "cuisine": "Deniz Ürünleri",
+        "address": "Selçuk Mahallesi, Mermerli Sok. No: 4, Kaleiçi, Antalya",
+        "phone": "+90 242 244 97 10",
+        "website": "http://www.armarestaurant.com",
+        "rating": 4.4,
+        "description": "Denize nazır bir konumda, taze deniz ürünleri ve eşsiz manzarasıyla ünlü bir restoran."
+      },
+      {
+        "name": "Lara Balık Evi",
+        "cuisine": "Deniz Ürünleri",
+        "address": "Güzeloba Mahallesi, Lara Cd. No: 321, Antalya",
+        "phone": "+90 242 349 15 15",
+        "website": "http://www.larabalikevi.com",
+        "rating": 4.3,
+        "description": "Taze balık ve deniz ürünleri sunan, Lara bölgesinde popüler bir restoran."
+      }
+    ]
+  },
+  "Bodrum": {
+    "places": [
+      "Bodrum Kalesi: Ortaçağ'dan kalma bir kale olup, içindeki Sualtı Arkeoloji Müzesi ile ünlüdür.",
+      "Antik Tiyatro: Bodrum'un antik dönemine ait etkileyici bir yapıdır ve hala çeşitli etkinlikler için kullanılmaktadır.",
+      "Mausoleum of Halicarnassus: Antik dünyanın yedi harikasından biri olan bu mezar, Bodrum'un önemli tarihi yapılarından biridir.",
+      "Bitez Plajı: Sakin denizi ve güzel manzarası ile popüler bir plajdır.",
+      "Gümüşlük Köyü: Bozulmamış doğası ve sahil köyü atmosferi ile ünlüdür."
+    ],
+    "beaches": [
+      "Gümbet Plajı: Bodrum'un en popüler plajlarından biridir. Su sporları ve gece hayatı ile ünlüdür.",
+      "Bitez Plajı: Aileler için ideal bir plajdır. Sığ suyu ve güzel kumları ile bilinir.",
+      "Ortakent Plajı: Uzun ve geniş bir kumsala sahip olan Ortakent Plajı, su sporları ve rahatlama için mükemmel bir yerdir.",
+      "Camel Plajı: Adını kumsalında bulunan deve şeklindeki büyük bir kaya parçasından alır. Bu plaj, güzel manzarası ve huzurlu atmosferi ile bilinir.",
+      "Akyarlar Plajı: Bodrum'un en güzel plajlarından biri olarak kabul edilir. Rüzgar sörfü için ideal koşullara sahiptir."
+    ],
+    "hotels": [
+      {
+        "name": "Kadikale Resort", 
+        "star_rating": "4 yıldızlı", 
+        "point": 8.8,
+        "features": [
+          "Deniz manzaralı odalar",
+          "Spor salonu",
+          "Açık yüzme havuzları",
+          "Spa ve wellness merkezi",
+          "Günlük temizlik hizmeti",
+          "Oda servisi"
+        ],
+        "room_options": [
+          "Standart Oda : 1 person",
+          "Süit Oda : 2-4 person",
+          "Aile Odası : 3-4 person"
+        ]
+      },
+      {
+        "name": "Hilton Muğla", 
+        "star_rating": "5 yıldızlı", 
+        "point": 9,
+        "features": [
+          "Deniz manzaralı odalar",
+          "Özel plaj",
+          "Spor salonu",
+          "Açık ve kapalı yüzme havuzları",
+          "Spa ve wellness merkezi",
+          "Günlük temizlik hizmeti",
+          "Oda servisi"
+        ],
+        "room_options": [
+          "Standart Oda : 1 person",
+          "Deluxe Oda : 4 person",
+          "Süit Oda : 2-4 person",
+          "Aile Odası : 3-4 person"
+        ]
+      },
+      {
+        "name": "Muğla Marriott Hotel", 
+        "star_rating": "4 yıldızlı", 
+        "point": 8.4,
+        "features": [
+          "Deniz manzaralı odalar",
+          "Özel plaj",
+          "Spor salonu",
+          "Açık yüzme havuzları",
+          "Spa merkezi",
+          "Günlük temizlik hizmeti",
+          "Oda servisi"
+        ],
+        "room_options": [
+          "Standart Oda : 1 person",
+          "Deluxe Oda : 4 person",
+          "Süit Oda : 2-4 person"
+        ]
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "Orfoz",
+        "cuisine": "Deniz Ürünleri",
+        "address": "Kumbahçe Mahallesi, Zeki Müren Cad. No:13/A, Bodrum",
+        "phone": "+90 252 316 42 16",
+        "website": "http://www.orfozrestaurant.com",
+        "rating": 4.8,
+        "description": "Bodrum'un tarihi dokusunda, taze ve lezzetli deniz ürünleri sunan popüler bir restoran."
+      },
+      {
+        "name": "Miam",
+        "cuisine": "Akdeniz Mutfağı",
+        "address": "Gümüşlük Mahallesi, Cumhuriyet Cd. No:14, Bodrum",
+        "phone": "+90 252 394 31 30",
+        "website": "http://www.miamgumusluk.com",
+        "rating": 4.7,
+        "description": "Gümüşlük sahilinde, deniz manzarası eşliğinde Akdeniz mutfağının özel lezzetlerini sunan bir restoran."
+      },
+      {
+        "name": "Kısmet Lokantası",
+        "cuisine": "Türk Mutfağı",
+        "address": "Çarşı Mahallesi, Cevat Şakir Cd. No:24, Bodrum",
+        "phone": "+90 252 316 12 29",
+        "website": "N/A",
+        "rating": 4.6,
+        "description": "Bodrum'un merkezinde, ev yapımı Türk yemekleri ve mezeleri ile ünlü bir lokanta."
+      },
+      {
+        "name": "Sait",
+        "cuisine": "Deniz Ürünleri",
+        "address": "Göltürkbükü Mahallesi, Yalı Mevkii No:32, Bodrum",
+        "phone": "+90 252 377 52 15",
+        "website": "http://www.saitturkbuku.com",
+        "rating": 4.5,
+        "description": "Türkbükü'nde yer alan, denize sıfır konumda taze deniz ürünleri sunan seçkin bir restoran."
+      },
+      {
+        "name": "Limon Gümüşlük",
+        "cuisine": "Ege Mutfağı",
+        "address": "Gümüşlük Mahallesi, Yalı Mevkii No:9, Bodrum",
+        "phone": "+90 252 394 31 06",
+        "website": "http://www.limongumusluk.com",
+        "rating": 4.4,
+        "description": "Gümüşlük'te yer alan, Ege mutfağından esinlenen lezzetleri ve muhteşem günbatımı manzarası ile bilinen bir restoran."
+      }
+    ]
+  },
+  "Muğla": {
+    "description": "Muğla, Türkiye'nin Ege Bölgesi'nde yer alan turistik bir şehir olup, zengin tarihi, doğal güzellikleri ve muhteşem plajları ile ünlüdür. Bodrum, Marmaris, Fethiye gibi popüler tatil beldeleri Muğla il sınırları içerisindedir.",
+    "places": [
+      "Marmaris Kalesi: Marmaris'teki tarihi kale, şehir manzarasını görmek için güzel bir yerdir.",
+      "Bodrum Yarımadası: Doğal güzellikleri ve tarihi kalıntılarıyla ünlü bir bölgedir.",
+      "Ölüdeniz: Fethiye'deki bu plaj, dünyaca ünlü turkuaz renkli denizi ile bilinir.",
+      "Dalyan: Kaunos Antik Kenti ve caretta caretta kaplumbağalarının ürediği plajları ile popülerdir.",
+      "Fethiye Likya Yolu: Doğa yürüyüşü yapabileceğiniz tarihi ve doğal güzelliklerle dolu bir patikadır."
+    ],
+    "beaches": [
+      "İztuzu Plajı (Dalyan):Caretta caretta kaplumbağalarının yumurtlama alanı olarak bilinen bu plaj, hem deniz hem de Dalyan Nehri arasında uzanır. Doğal güzelliği ve koruma altındaki doğası ile dikkat çeker.",
+      "Kleopatra Adası (Sedir Adası):Özel bir ada olan Sedir Adası'ndaki Kleopatra Plajı, incecik kumları ve turkuaz renkli sularıyla ünlüdür. Efsaneye göre, bu kumlar Mısır Kraliçesi Kleopatra için özel olarak getirilmiştir.",
+      "Ölüdeniz Plajı (Fethiye):Türkiye'nin en ünlü plajlarından biri olan Ölüdeniz, sakin suları ve muhteşem manzarasıyla bilinir. Ayrıca, dünyanın en iyi yamaç paraşütü noktalarından biri olarak kabul edilir.",
+      "Kumlubük Plajı (Marmaris):Marmaris yakınlarında bulunan bu plaj, sakinliği ve temizliğiyle ünlüdür. Yüzmek ve güneşlenmek için ideal bir yerdir."
+    ],
+    "hotels": [
+        {
+            "name": "Rixos Premium Göcek",
+            "star_rating": "5 yıldızlı",
+            "features": [
+                "Deniz manzaralı odalar",
+                "Özel plaj",
+                "Spor salonu",
+                "Açık ve kapalı yüzme havuzları",
+                "Spa ve wellness merkezi",
+                "Günlük temizlik hizmeti",
+                "Oda servisi"
+            ],
+            "room_options": [
+              "Standart Oda : 1 person",
+              "Deluxe Oda : 4 person",
+              "Süit Oda : 2-4 person"
+            ]
+        },
+        {
+            "name": "Liberty Hotels Lykia",
+            "star_rating":"5 yıldızlı",
+            "features": [
+                "Geniş aile odaları",
+                "Açık ve kapalı yüzme havuzları",
+                "Çocuk oyun alanları",
+                "Golf sahası",
+                "Denize sıfır konum",
+                "Spa ve wellness merkezi",
+                "Gece eğlence programları"
+            ],
+            "room_options": [
+              "Standart Oda : 1 person",
+              "Deluxe Oda : 4 person",
+              "Süit Oda : 2-4 person"
+            ]
+        },
+        {
+            "name": "D Maris Bay",
+            "star_rating":"5 yıldızlı",
+            "features": [
+                "Özel koy ve plaj",
+                "Lüks spa olanakları",
+                "Gurme restoranlar",
+                "Deniz manzaralı odalar",
+                "Tenis kortları",
+                "Helikopter pisti",
+                "Yat kiralama hizmeti"
+            ],
+            "room_options": [
+              "Standart Oda : 1 person",
+              "Deluxe Oda : 4 person",
+              "Süit Oda : 2-4 person"
+            ]
+        },
+        {
+            "name": "Hilton Dalaman Sarıgerme Resort & Spa",
+            "star_rating":"5 yıldızlı",
+            "features": [
+                "Özel plaj",
+                "Çeşitli yüzme havuzları",
+                "Çocuk kulübü",
+                "Su parkı",
+                "Spa ve wellness merkezi",
+                "Gurme restoranlar",
+                "Doğa yürüyüşleri"
+            ],
+            "room_options": [
+              "Standart Oda : 1 person",
+              "Deluxe Oda : 4 person",
+              "Süit Oda : 2-4 person"
+            ]
+        },
+        {
+            "name": "Kaunos Hotel",
+            "star_rating": "4 yıldızlı",
+            "features": [
+                "Nehir manzaralı odalar",
+                "Açık yüzme havuzu",
+                "Restoran ve bar",
+                "Doğa sporları",
+                "Bisiklet kiralama",
+                "Yakın çevrede tarihi geziler",
+                "Yüzme ve plaj olanakları"
+            ],
+            "room_options": [
+              "Standart Oda : 1 person",
+              "Deluxe Oda : 4 person",
+              "Süit Oda : 2-4 person"
+            ]
+        }
+    ],
+    "restaurants": [
+      {
+        "name": "Köşk Restaurant",
+        "cuisine": "Türk Mutfağı",
+        "address": "Kötekli Mahallesi, Muğla Sıtkı Koçman Üniversitesi Kampüsü, Muğla",
+        "phone": "+90 252 223 92 94",
+        "website": "N/A",
+        "rating": 4.7,
+        "description": "Muğla'nın yerel lezzetlerini ve geleneksel Türk yemeklerini sunan bir restoran."
+      },
+      {
+        "name": "Balıkçı Osman",
+        "cuisine": "Deniz Ürünleri",
+        "address": "Orhaniye Mahallesi, Atatürk Blv. No:67, Muğla",
+        "phone": "+90 252 214 12 34",
+        "website": "http://www.balikciosman.com",
+        "rating": 4.6,
+        "description": "Taze deniz ürünleri ile ünlü, Muğla'nın en bilinen balık restoranlarından biri."
+      },
+      {
+        "name": "Hünkar Lokantası",
+        "cuisine": "Türk Mutfağı",
+        "address": "Muslihittin Mahallesi, Recai Güreli Cd. No:35, Muğla",
+        "phone": "+90 252 214 13 14",
+        "website": "http://www.hunkarlokantasi.com",
+        "rating": 4.5,
+        "description": "Ev yapımı yemekler ve geleneksel Türk mutfağına ait mezeler sunan bir aile işletmesi."
+      },
+      {
+        "name": "Dönerci Ali Usta",
+        "cuisine": "Fast Food",
+        "address": "Emirbeyazıt Mahallesi, İsmet Çatak Cd. No:25, Muğla",
+        "phone": "+90 252 214 11 22",
+        "website": "N/A",
+        "rating": 4.4,
+        "description": "Lezzetli döner ve çeşitli fast food seçenekleri sunan Muğla'nın ünlü dönercisi."
+      },
+      {
+        "name": "Tarihi Muğla Konağı",
+        "cuisine": "Türk Mutfağı",
+        "address": "Kocamustafendi Mahallesi, Mutlak Sokak No:1, Muğla",
+        "phone": "+90 252 212 34 56",
+        "website": "http://www.tarihimuglakonagi.com",
+        "rating": 4.3,
+        "description": "Tarihi bir konakta yer alan, otantik Türk mutfağı lezzetleri sunan bir restoran."
+      }
+    ]
+},
+"Fethiye": {
+  "description": "Fethiye, Türkiye'nin Muğla iline bağlı, doğal güzellikleri, tarihi zenginlikleri ve muhteşem plajlarıyla ünlü bir tatil beldesidir. Ölüdeniz, Kelebekler Vadisi ve Saklıkent Kanyonu gibi yerleriyle tanınır.",
+  "places": [
+    "Kelebekler Vadisi: Fethiye'deki bu vadi, çeşitli kelebek türleri ve doğa yürüyüşleri ile ünlüdür.",
+    "Saklıkent Kanyonu: Bu etkileyici kanyon, doğa severler ve macera tutkunları için mükemmel bir yerdir.",
+    "Ölüdeniz: Dünyaca ünlü bu plaj, turkuaz renkli sakin suları ile bilinir ve yamaç paraşütü için popüler bir noktadır.",
+    "Kayaköy: Tarihi bir Rum köyü olan Kayaköy, taş evleri ve mistik atmosferi ile ilgi çeker.",
+    "Gemiler Adası: Tarihi kalıntıları ve berrak denizi ile ünlü bu ada, tekne turları ile ziyaret edilebilir."
+  ],
+  "beaches": [
+    "Çalış Plajı: Uzun bir sahil şeridine sahip bu plaj, güneş batımını izlemek için mükemmel bir yerdir.",
+    "Kabak Koyu: Doğal güzellikleri ve sakin atmosferi ile ünlü bu koy, kamp yapmayı sevenler için idealdir.",
+    "Belcekız Plajı: Ölüdeniz'in hemen yanında yer alan bu plaj, temiz suları ve sahil boyunca uzanan restoranları ile bilinir.",
+    "Günlüklü Koyu: Saklı bir cennet olarak bilinen bu koy, çevresindeki günlük ağaçları ile ünlüdür."
+  ],
+  "hotels": [
+      {
+          "name": "Liberty Hotels Ölüdeniz",
+          "star_rating": "4 yıldızlı",
+          "features": [
+              "Açık yüzme havuzu",
+              "Restoran ve bar",
+              "Spor salonu",
+              "Günlük temizlik hizmeti",
+              "Denize yakın konum",
+              "Spa ve wellness merkezi"
+          ],
+          "room_options": [
+            "Standart Oda : 1 person",
+            "Deluxe Oda : 4 person",
+            "Süit Oda : 2-4 person"
+          ]
+      },
+      {
+          "name": "Jiva Beach Resort",
+          "star_rating":"5 yıldızlı",
+          "features": [
+              "Özel plaj",
+              "Geniş aile odaları",
+              "Açık ve kapalı yüzme havuzları",
+              "Çocuk oyun alanları",
+              "Su sporları",
+              "Spa ve wellness merkezi"
+          ],
+          "room_options": [
+            "Standart Oda : 1 person",
+            "Deluxe Oda : 4 person",
+            "Süit Oda : 2-4 person"
+          ]
+      },
+      {
+          "name": "Club & Hotel Letoonia",
+          "star_rating":"5 yıldızlı",
+          "features": [
+              "Özel koy ve plaj",
+              "Lüks spa olanakları",
+              "Geniş yeşil alanlar",
+              "Çeşitli spor aktiviteleri",
+              "Açık ve kapalı restoranlar",
+              "Deniz manzaralı odalar"
+          ],
+          "room_options": [
+            "Standart Oda : 1 person",
+            "Deluxe Oda : 4 person",
+            "Süit Oda : 2-4 person"
+          ]
+      },
+      {
+          "name": "Yacht Classic Hotel",
+          "star_rating":"4 yıldızlı",
+          "features": [
+              "Deniz kenarında konum",
+              "Özel yat kiralama",
+              "Lüks spa olanakları",
+              "Restoran ve bar",
+              "Yetişkin havuzu",
+              "Odadan denize direkt erişim"
+          ],
+          "room_options": [
+            "Standart Oda : 1 person",
+            "Deluxe Oda : 4 person",
+            "Süit Oda : 2-4 person"
+          ]
+      },
+      {
+          "name": "Montana Pine Resort",
+          "star_rating": "4 yıldızlı",
+          "features": [
+              "Dağ manzaralı odalar",
+              "Açık yüzme havuzları",
+              "Doğa yürüyüş parkurları",
+              "Geleneksel Türk hamamı",
+              "Spor salonu",
+              "Restoran ve bar"
+          ],
+          "room_options": [
+            "Standart Oda : 1 person",
+            "Deluxe Oda : 4 person",
+            "Süit Oda : 2-4 person"
+          ]
+      }
+  ],
+  "restaurants": [
+    {
+      "name": "Pasa Kebab",
+      "cuisine": "Türk Mutfağı",
+      "address": "Cumhuriyet Mahallesi, Çarşı Cd. No:14, Fethiye",
+      "phone": "+90 252 614 98 09",
+      "website": "http://www.pasakebab.com",
+      "rating": 4.7,
+      "description": "Geleneksel Türk kebapları ve mezeleri sunan popüler bir restoran."
+    },
+    {
+      "name": "Mori Restaurant",
+      "cuisine": "Deniz Ürünleri",
+      "address": "Karagözler Mahallesi, Fevzi Çakmak Cd. No:25, Fethiye",
+      "phone": "+90 252 614 42 42",
+      "website": "http://www.morirestaurant.com",
+      "rating": 4.6,
+      "description": "Fethiye'nin liman manzaralı, taze deniz ürünleri ile ünlü restoranı."
+    },
+    {
+      "name": "Agora Restaurant & Meyhane",
+      "cuisine": "Ege Mutfağı",
+      "address": "Paspatur Çarşısı, Çarşı Cd. No:3, Fethiye",
+      "phone": "+90 252 614 91 19",
+      "website": "N/A",
+      "rating": 4.5,
+      "description": "Ege mutfağının lezzetlerini sunan, meze ve rakı keyfi yapabileceğiniz bir mekan."
+    },
+    {
+      "name": "Cin Bal Kebab Restaurant",
+      "cuisine": "Türk Mutfağı",
+      "address": "Kayaköy Mahallesi, Kayaköy Cd. No:55, Fethiye",
+      "phone": "+90 252 618 00 74",
+      "website": "http://www.cinbal.com",
+      "rating": 4.4,
+      "description": "Kayaköy'de yer alan, meşhur kebapları ve samimi ortamıyla bilinen bir restoran."
+    },
+    {
+      "name": "Hilmi Restaurant",
+      "cuisine": "Deniz Ürünleri",
+      "address": "Karagözler Mahallesi, Fevzi Çakmak Cd. No:18, Fethiye",
+      "phone": "+90 252 614 39 49",
+      "website": "http://www.hilmirestaurant.com",
+      "rating": 4.3,
+      "description": "Deniz kenarında, taze balık ve mezeleri ile ünlü bir aile işletmesi."
+    }
+  ]
+}
+
+}
